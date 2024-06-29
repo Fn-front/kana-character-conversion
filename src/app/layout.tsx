@@ -13,8 +13,8 @@ const noto = Noto_Sans_JP({
 });
 
 export const metadata: Metadata = {
-  title: "テンプレ",
-  description: "テンプレ",
+  title: "かな変換",
+  description: "かな変換",
 };
 
 export default function RootLayout({
