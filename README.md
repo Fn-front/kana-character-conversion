@@ -1,5 +1,5 @@
 # kana-character-conversion
-<a href="https://kana-character-conversion.vercel.app" target="blank">https://kana-character-conversion.vercel.app</a>
+![https://kana-character-conversion.vercel.app](https://kana-character-conversion.vercel.app)
 
 <br>
 
@@ -10,5 +10,4 @@
 # Plugin
 
 ## Moji.js
-
-<a href="https://github.com/niwaringo/moji" target="blank">https://github.com/niwaringo/moji</a>
+![https://github.com/niwaringo/moji](https://github.com/niwaringo/moji)
